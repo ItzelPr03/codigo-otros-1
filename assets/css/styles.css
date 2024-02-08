@@ -14,9 +14,9 @@ html {
   --green: #61e846;
   --text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
   --box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
-  font-size: 62.5%;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  box-sizing: border-box;
+  --font-size: 62.5%;
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --box-sizing: border-box;
 }
 
 *, *:before, *:after {
